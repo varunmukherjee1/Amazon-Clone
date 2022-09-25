@@ -1,1 +1,1 @@
-The clone is hosted at : https://clone-c6aca.web.app
+You can see the site here : [Amazon Clone](https://clone-c6aca.web.app)

@@ -1,0 +1,29 @@
+
+.cartIcon {
+    margin: 1rem;
+    position: relative;
+    height: 15px;
+    width: 15px;
+    transform: scale(0.6);
+}
+
+.count {
+    position: absolute;
+    right: 25%;
+    color: orange;
+    top: -150%;
+    font-weight: bold;
+    font-size: 1.8rem;
+    transform: translateX(50%);
+}
+
+.cart {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    stroke: #fff;
+    stroke-width: 5px;
+    transform: rotateX(180deg) translateX(-50%) translateY(50%);
+    bottom: 0;
+    /* transform: scale(0.5); */
+}
